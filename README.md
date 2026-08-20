@@ -63,14 +63,22 @@ All figures are generated programmatically with `matplotlib`/`seaborn` and saved
 **Dashboard 1 — Sampling Validation**
 Confirms SRS integrity and basin representativeness of the 70-station sample against the full population.
 
+![Dashboard 1 - Sampling Validation](figures/dashboard1_sampling.png)
+
 **Dashboard 2 — Probabilistic Analysis**
 P(rise), P(above danger level) for both datasets, and the empirical probability distribution of distance below danger level.
+
+![Dashboard 2 - Probabilistic Analysis](figures/dashboard2_probability.png)
 
 **Dashboard 3 — Exploratory Data Analysis**
 Water level distribution, correlation matrix, basin-level boxplots, and mean rise/fall by basin.
 
+![Dashboard 3 - Exploratory Data Analysis](figures/dashboard3_eda.png)
+
 **Dashboard 4 — Correlation & Regression**
 Water-level persistence between the two time points, with regression fit and change-in-level distribution.
+
+![Dashboard 4 - Correlation and Regression](figures/dashboard4_regression.png)
 
 ---
 
@@ -93,7 +101,7 @@ flood-risk-analytics/
 ## Setup & usage
 
 ```bash
-git clone https://github.com/<your-username>/flood-risk-analytics.git
+git clone https://github.com/Hurairiam/flood-risk-analytics.git
 cd flood-risk-analytics
 pip install pandas numpy matplotlib seaborn scipy openpyxl
 python flood_analysis.py
