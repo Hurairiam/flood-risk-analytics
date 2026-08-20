@@ -109,9 +109,17 @@ Running the script prints a step-by-step analysis log to the console and saves a
 
 ---
 
-## Author
+## Team
 
-Abu Huraira ([@Hurairiam](https://github.com/Hurairiam)) — CSE undergraduate, University of Liberal Arts Bangladesh
+| Name | GitHub |
+|---|---|
+| Abu Huraira | [@Hurairiam](https://github.com/Hurairiam) |
+| Saif Hasan Khan | [@saifhasankhan197-hub](https://github.com/saifhasankhan197-hub) |
+| Abdullah Tanvir | [@GREEN1971](https://github.com/GREEN1971) |
+| Iqbal Hossain Howlader | [@Iqbal-Hossain369](https://github.com/Iqbal-Hossain369) |
+| Aysha Saheba Mostafa | [@ayshasaheba](https://github.com/ayshasaheba) |
+
+CSE undergraduates, University of Liberal Arts Bangladesh
 
 ---
 
